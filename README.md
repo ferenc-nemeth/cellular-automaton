@@ -21,16 +21,13 @@ The user can manually set what ruleset they want to use.
 
 Some pre-made samples:
 
-<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/conway.gif" >
-
+<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/conway.gif" > <br>
 *Figure 1. Conway's Game of Life.*
 
-<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/maze.gif" >
-
+<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/maze.gif" > <br>
 *Figure 2. Maze.*
 
-<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/replicator.gif" >
-
+<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/replicator.gif" > <br#
 *Figure 3. Replicator.*
 
 The functions of the script:
