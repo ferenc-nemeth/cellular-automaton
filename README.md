@@ -27,7 +27,7 @@ Some pre-made samples:
 <img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/maze.gif" > <br>
 *Figure 2. Maze.*
 
-<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/replicator.gif" > <br#
+<img src="https://raw.githubusercontent.com/ferenc-nemeth/cellular-automaton/master/design/replicator.gif" > <br>
 *Figure 3. Replicator.*
 
 The functions of the script:
